@@ -23,6 +23,15 @@ app.use("/api/auth", authRoutes);
 app.use("/api/events", eventRoutes);
 app.use("/api/vendor-types", vendorTypeRoutes);
 app.use("/api/venues", venueRoutes);
+/* ---------- SERVE REACT BUILD ---------- */
+
+app.use(express.static(path.join(__dirname, "../client/dist")));
+
+app.get("*", (req, res) => {
+  res.sendFile(path.join(__dirname, "../client/dist/index.html"));
+});
+
+/* -------------------------------------- */
 
 app.get("/", (req, res) => {
   res.send("Wellness Event API is running...");
