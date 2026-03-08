@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import CreateEvent from "../components/CreateEvent";
-import EventList from "../components/EventList";
+import CreateEvent from "../components/createEvent";
+import EventList from "../components/eventList";
 
 const HRDashboard = ({ user }) => {
   const [view, setView] = useState("list");
