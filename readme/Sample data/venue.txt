@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Sunway Pyramid Convention Centre",
+    "postalCode": "47500",
+    "streetName": "Jalan PJS 11/15, Bandar Sunway",
+    "state": "Selangor"
+  },
+  {
+    "name": "Kuala Lumpur Convention Centre (KLCC)",
+    "postalCode": "50088",
+    "streetName": "Kuala Lumpur City Centre",
+    "state": "Kuala Lumpur"
+  },
+  {
+    "name": "Mid Valley Exhibition Centre (MVEC)",
+    "postalCode": "59200",
+    "streetName": "Lingkaran Syed Putra, Mid Valley City",
+    "state": "Kuala Lumpur"
+  },
+  {
+    "name": "Setia City Convention Centre",
+    "postalCode": "40170",
+    "streetName": "Persiaran Setia Dagang, Setia Alam",
+    "state": "Selangor"
+  },
+  {
+    "name": "Sime Darby Convention Centre",
+    "postalCode": "60000",
+    "streetName": "1A, Jalan Bukit Kiara 1, Bukit Kiara",
+    "state": "Kuala Lumpur"
+  }
+]

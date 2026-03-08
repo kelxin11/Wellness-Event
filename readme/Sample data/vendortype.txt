@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Medical",
+    "description": "Health screenings, blood tests, and medical checkups."
+  },
+  {
+    "name": "Wellness",
+    "description": "Yoga, mental health talks, and ergonomic workshops."
+  }
+]

@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "69ad2285a88d958d2cdd55c2"
+  },
+  "eventName": "Health Screening I",
+  "hrUser": {
+    "$oid": "69ac7c74d6075aef8e890c60"
+  },
+  "companyName": "SunMed",
+  "vendorId": null,
+  "vendorName": "",
+  "location": {
+    "venueDetails": "Sunway Pyramid Convention Centre",
+    "streetName": "Jalan PJS 11/15, Bandar Sunway",
+    "postalCode": "47500",
+    "state": "Selangor",
+    "country": "Malaysia"
+  },
+  "eventType": {
+    "$oid": "69ac0068d6075aef8e890c31"
+  },
+  "proposedDates": [
+    "2026-03-14",
+    "2026-03-21",
+    "2026-03-28"
+  ],
+  "confirmedDate": null,
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2026-03-08T07:17:25.735Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "69ad22c2a88d958d2cdd55cf"
+  },
+  "eventName": "Wellness I",
+  "hrUser": {
+    "$oid": "69ac7c74d6075aef8e890c61"
+  },
+  "companyName": "Gleneagles",
+  "vendorId": null,
+  "vendorName": "",
+  "location": {
+    "venueDetails": "Grand Hall B",
+    "streetName": "Jalan Grand Hall ",
+    "postalCode": "47500",
+    "state": "Subang Jaya",
+    "country": "Malaysia"
+  },
+  "eventType": {
+    "$oid": "69ac0068d6075aef8e890c32"
+  },
+  "proposedDates": [
+    "2026-03-13",
+    "2026-03-20",
+    "2026-03-27"
+  ],
+  "confirmedDate": null,
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2026-03-08T07:18:26.585Z"
+  },
+  "__v": 0
+}
+]

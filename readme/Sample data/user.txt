@@ -1,0 +1,35 @@
+[
+  {
+    "username": "hr_sunmed",
+    "password": "password123",
+    "role": "HR",
+    "companyName": "SunMed"
+  },
+  {
+    "username": "hr_gleneagles",
+    "password": "password123",
+    "role": "HR",
+    "companyName": "Gleneagles"
+  },
+  {
+    "username": "vendor_med",
+    "password": "password123",
+    "role": "Vendor",
+    "companyName": "MediQuip Solutions",
+    "vendorType": "Medical"
+  },
+  {
+    "username": "vendor_well",
+    "password": "password123",
+    "role": "Vendor",
+    "companyName": "HealthyLife Wellness",
+    "vendorType": "Wellness"
+  },
+  {
+    "username": "vendor_multi",
+    "password": "password123",
+    "role": "Vendor",
+    "companyName": "TotalHealth Corp",
+    "vendorType": ["Medical", "Wellness"]
+  }
+]
